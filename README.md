@@ -5,7 +5,7 @@ Parse out the [emoji from unicode.org][emoji]. Code to accompany the
 [PurelyFunctional.tv Online Mentoring][mentoring].
 
 [emoji]: http://unicode.org/emoji/charts/full-emoji-list.html
-[parsing]: https://purelyfunctional.tv/clojure-macros
+[parsing]: https://purelyfunctional.tv/data-formats/html-parsing/
 [mentoring]: https://purelyfunctional.tv/
 
 This code uses [JSoup] to parse HTML.
